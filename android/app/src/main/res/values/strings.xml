@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">calculadora-app-002</string>
+    <string name="title_activity_main">calculadora-app-002</string>
+    <string name="package_name">calculadora.app.v002</string>
+    <string name="custom_url_scheme">calculadora.app.v002</string>
+</resources>
